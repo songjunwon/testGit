@@ -7,6 +7,7 @@ public class testGit {
 		System.out.println("123455");
 		System.out.println("123455");
 
+		System.out.println("나는 마스터 인듯 ㅋ");
 	}
 
 }
