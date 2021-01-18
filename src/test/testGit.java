@@ -7,6 +7,7 @@ public class testGit {
 		System.out.println("123455");
 		System.out.println("123455");
 
+		System.out.println("나는 dev1이야");
 	}
 
 }
