@@ -11,6 +11,7 @@ public class testGit {
 		System.out.println("야 나 조원인데 좀하네 니 ㅋ");
 		System.out.println("좀 치네");
 		System.out.println("좀 치네2");
+		System.out.println("123");
 	}
 
 }
